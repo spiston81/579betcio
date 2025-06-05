@@ -1,0 +1,158 @@
+.header-icon > img {
+  width: 20px !important;
+  box-shadow: 0 0 12px #f1bd1900, 0 0 20px #f1bd1900, 0 4px 12px #f1bd1900, 0 4px 20px #f1bd1900;
+  background: #f1bd19 !important;
+}
+
+.eligible-bonus {
+    display: flex;
+    align-items: center;
+    color: rgba(var(--b-sc),.6);
+    font-size: 12px;
+    display: none !important;
+}
+.btn.register {
+  background: #ECCC22;
+}
+
+.header-icon > img {
+  background: #ECCC22 !important;
+}
+
+.crypto-currency-data {
+  display: none !important;
+}
+.has-exchange-info .layout-content-holder-bc {
+  padding-top: calc(var(--mobile-header-navigation-height) + var(--dynamic-header) + 0px) !important;
+}
+
+.hdr-navigation-scrollable-bc, .hdr-navigation-scrollable-bc-holder { 
+    position: fixed !important; 
+}
+
+
+.header-bc .hdr-navigation-scrollable-bc:not(:only-child):first-child {
+position: absolute !important;
+}
+.crypto-wallet-switcher-container {
+  display: none !important;
+}
+.slider-bc {
+  margin-top: 7px !important;
+}
+
+.hdr-additional-info {
+    display: none !important;
+    align-items: center;
+    height: 40px;
+    background: rgba(var(--b), 1);
+    padding: 0 7px;
+    border-bottom: 1px solid rgba(var(--header-sc),.1);
+}
+.hdr-navigation-link-bc {
+    background: rgba(var(--b-sc),.1) !important;
+    position: relative;
+    text-transform: uppercase;
+    letter-spacing: .065em;
+    margin-right: 4px !important;
+    border-radius: 6px !important;
+    line-height: 28px !important;
+    margin-top: 7px !important;
+    box-shadow: none !important;
+    color: #d3d3d3 !important;
+}
+.has-header-info .layout-content-holder-bc{
+padding-top: calc(var(--mobile-header-navigation-height) + var(--dynamic-header)) !important;
+}
+
+.expandable-info-body-content Hizlipayfix payment-content not-expandable{
+display:none !important;
+}
+
+.expandable-info-body-content FulgurPay payment-content not-expandable{
+display:none !important;
+}
+
+.expandable-info-body-content FulgurPayUSDT_T payment-content not-expandable{
+display:none !important;
+}
+
+.expandable-info-body-content FulgurPayBTC payment-content not-expandable{
+display:none !important;
+}
+
+.expandable-info-body-content Star payment-content not-expandable{
+display:none !important;
+}
+
+.expandable-info-body-content Hizlipapara payment-content not-expandable{
+display:none !important;
+}
+
+.expandable-info-body-content AsPays payment-content not-expandable{
+display:none !important;
+}
+
+.expandable-info-body-content Bigpayss_Bank payment-content not-expandable{
+display:none !important;
+}
+
+.expandable-info-body-content LoginPay payment-content not-expandable{
+display:none !important;
+}
+
+.expandable-info-body-content AnindaQR payment-content not-expandable{
+display:none !important;
+}
+
+.expandable-info-body-content VevoPayParazula payment-content not-expandable{
+display:none !important;
+}
+
+.expandable-info-body-content Fixturka payment-content not-expandable{
+display:none !important;
+}
+
+.expandable-info-body-content LoginPayCreditCard payment-content not-expandable{
+display:none !important;
+}
+
+.expandable-info-body-content VevoPayHavale payment-content not-expandable{
+display:none !important;
+}
+
+.expandable-info-body-content Bigpayss_Papara payment-content not-expandable{
+display:none !important;
+}
+
+.expandable-info-body-content JestPaysHavale payment-content not-expandable{
+display:none !important;
+}
+
+.expandable-info-body-content CepPay payment-content not-expandable{
+display:none !important;
+}
+
+.expandable-info-body-content VevoPayMFT payment-content not-expandable{
+display:none !important;
+}
+
+.expandable-info-body-content TPayNewPapara payment-content not-expandable{
+display:none !important;
+}
+
+.expandable-info-body-content TiktakPapara payment-content not-expandable{
+display:none !important;
+}
+
+.expandable-info-body-content VevoPayPep payment-content not-expandable{
+display:none !important;
+}
+
+.expandable-info-body-content SeriPopy payment-content not-expandable{
+display:none !important;
+}.entrance-f-error-message-bc {
+  background: rgba(255, 52, 73, 0) !important;
+}.button.outlined.min.supportButton {
+  padding: 10px !important;
+}

@@ -1,0 +1,97 @@
+.wizard{
+    transition: 0.5s;
+    opacity: 0;
+    margin-top:-20px;
+}
+.wizard.active{
+    opacity: 100;
+    margin-top:0;
+}
+h1,h2-ih3,h4,h5,h6,span,i,div,p,a{
+    font-family: "Poppins", sans-serif;
+}
+
+.invalid-feedback {
+    display: block !important;
+}
+
+.bank-logo {
+    width: 100%;
+}
+
+.wizard label {
+    font-weight: 700;
+}
+
+.wizard .form-control {
+    border-radius: 10px !important;
+}
+
+.wizard .input-group input {
+    border-radius: 10px 0 0 10px !important;
+}
+
+.wizard .input-group a {
+    border-radius: 0 10px 10px 0 !important;
+}
+
+.wizard small {
+    margin-top: 10px;
+    font-size: 16px !important;
+}
+
+.wizard button {
+    border: 0 !important;
+    background: #00AB66 !important;
+    padding: 10px 20px !important;
+    border-radius: 40px;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+
+.wizard .alert.alert-danger {
+    border: 0 !important;
+    border-radius: 10px !important;
+}
+
+.wizard .radio-box label {
+    border-radius: 10px;
+    border: 1px solid #EAEAEA;
+    overflow: hidden;
+    position: absolute;
+    top: 0;
+    right: 0;
+    left: 0;
+    bottom: 0;
+    cursor: pointer;
+}
+
+.wizard .radio-box input {
+    display: none;
+}
+
+.wizard .radio-box input[type="radio"]:checked + label {
+    border: 2px solid blue;
+    box-shadow: rgb(76, 114, 155) 0px 20px 30px -10px;
+}
+
+.wizard .radio-box {
+    position: relative;
+    height: 110px;
+    display: flex;
+    justify-content: center;
+}
+
+.wizard-box {
+    box-shadow: 0 5px 40px -12px rgba(0, 0, 0, 0.1);
+    border: 1px solid #EAEAEA;
+}
+
+.wizard-container{
+    width: 100%;
+    max-width: 700px;
+}
+
+.wizard-page{
+    background: #f2f2f2;
+}
